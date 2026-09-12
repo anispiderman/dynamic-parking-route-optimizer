@@ -35,10 +35,10 @@ Run cells from top to bottom. The comparison cell performs 50 scenarios with 2,0
 - Garage choice and reward shaping are experimental.
 - Results do not establish real-world routing performance.
 
-## Paper
+## Project paper
 
-An IEEE-format project paper will be added separately by the project owner after the final PDF is checked. No substitute or generated paper is included.
+I wrote an IEEE-format paper explaining the problem, algorithms, experiment design, results, and limitations. I will add the verified PDF to this repository separately.
 
-## Provenance
+## About this project
 
-This repository contains a sanitized portfolio edition of the final project notebook. Personal identifiers, course codes, Colab metadata, and the incomplete DQN stub were removed. The earlier draft notebook was excluded because it contains incomplete duplicate code and syntax errors. Repository history begins when this portfolio edition was prepared.
+I built this as an artificial-intelligence class project. The repository focuses on the completed dynamic A* and tabular Q-learning comparison; a DQN extension was explored but was not completed, so it is not included in the implementation or results.
