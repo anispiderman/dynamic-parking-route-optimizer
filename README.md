@@ -37,8 +37,7 @@ Run cells from top to bottom. The comparison cell performs 50 scenarios with 2,0
 
 ## Project paper
 
-I wrote an IEEE-format paper explaining the problem, algorithms, experiment design, results, and limitations. I will add the verified PDF to this repository separately.
-
+I wrote an IEEE-format paper explaining the problem, algorithms, experiment design, results, and limitations. 
 ## About this project
 
-I built this as an artificial-intelligence class project. The repository focuses on the completed dynamic A* and tabular Q-learning comparison; a DQN extension was explored but was not completed, so it is not included in the implementation or results.
+I built this as an artificial-intelligence class group project. The repository focuses on the completed dynamic A* and tabular Q-learning comparison; a DQN extension was explored but was not completed, so it is not included in the implementation or results.
